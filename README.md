@@ -31,4 +31,4 @@
 <h2>Contributing</h2>
 <p>Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.</p>
 <h2>Contact</h2>
-<p>If you have any questions or feedback, feel free to contact me at <p><a href="mailto:abinmjoseph05@gmail.com"></a></p></p>
+<p>If you have any questions or feedback, feel free to contact me at <a href="mailto:abinmjoseph05@gmail.com"></a></p>
